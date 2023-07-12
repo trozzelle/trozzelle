@@ -6,7 +6,7 @@
 - :wrench:  I'm currently the lead engineer at Nexus Point Strategies and a full-stack consultant with Imperative NY
 - 🧪 My primary research interest is data management in campaigning. 
   - How do we clean, transform, validate, and store our data so that it is actionable? 
-  - How do we leverage other data to enrich our own? 
+  - How do we leverage other data sets to enrich our own? 
   - How can we build robust tools that talk to one another to de-silo our data and keep it from rotting?
 
 - 📫 Reach me at [@torinrozzelle](https://twitter.com/torinrozzelle) on Twitter or by email at [torin@imperativeny.com](mailto:torin@imperativeny.com) 
