@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-torinrozzelle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/torinrozzelle/)](https://www.linkedin.com/in/torinrozzelle/) [![Gmail Badge](https://img.shields.io/badge/-hello@torinrozzelle.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@torinrozzelle.com)](mailto:hello@torinrozzelle.com)
 
 -  🗳️ I build tools to support progressive causes
-- :wrench:  I'm currently the Partner Support Engineer for [Strive Messaging](https://www.strivemessaging.org/)
 - 🧪 My primary research interest is data management in campaigning. 
   - How do we clean, transform, validate, and store our data so that it is actionable? 
   - How do we leverage other data sets to enrich our own? 
