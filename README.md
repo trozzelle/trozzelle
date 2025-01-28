@@ -1,4 +1,4 @@
-<h2 align="center">📢 Hello! I'm Torin.</h2>
+<h2 align="center">Hello!</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-torinrozzelle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/torinrozzelle/)](https://www.linkedin.com/in/torinrozzelle/) [![Gmail Badge](https://img.shields.io/badge/-hello@torinrozzelle.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@torinrozzelle.com)](mailto:hello@torinrozzelle.com)
 
